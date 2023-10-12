@@ -38,7 +38,10 @@ Below is required for Terraform Code to run using Azure Devops Pipelines using W
 | BELOW IS HOW APP REGISTRATION WITH FEDERATED CREDENTIALS LOOKS LIKE:- |
 | --------- |
 | __App Registration with Federated Credetials.__ |
-|  |
+| ![1](https://github.com/arindam0310018/12-Oct-2023-DevOps__Terraform-Deployment-Using-Workload-Identity-Federation/assets/29681063/8ef65826-27a5-4d12-a6a3-954f0e46da60) |
+| __Azure Resource Manager Workload Identity Federation Service Connection.__ |
+| ![2](https://github.com/arindam0310018/12-Oct-2023-DevOps__Terraform-Deployment-Using-Workload-Identity-Federation/assets/29681063/8f5de126-036d-4e4f-89ae-98fe225883cb) | 
+
 
 
 
