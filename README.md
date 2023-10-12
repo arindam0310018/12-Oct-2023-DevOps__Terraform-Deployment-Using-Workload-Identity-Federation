@@ -1,0 +1,1 @@
+# 12-Oct-2023-DevOps__Terraform-Deployment-Using-Workload-Identity-Federation
