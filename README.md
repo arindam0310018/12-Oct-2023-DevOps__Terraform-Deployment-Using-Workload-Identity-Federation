@@ -1,4 +1,4 @@
-# BLOG POST COMING SOON - Terraform Deployment with Az Devops Piepline Using Workload Identity Federation
+# BLOG POST COMING SOON - Terraform Deployment with Az Devops Pipeline Using Workload Identity Federation
 
 | IMPORTANT NOTE:- |
 | --------- |
